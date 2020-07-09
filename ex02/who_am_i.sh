@@ -1,2 +1,3 @@
 #/bin/bash
-who am i
+ldapwhoami > output.txt
+cat output.txt
